@@ -1,4 +1,4 @@
-# Primeiros passos com Flutter  <img src="C:\Users\782405\AppData\Roaming\Typora\typora-user-images\image-20210629115629670.png" alt="image-20210629115629670" style="zoom: 25%;" />
+# Primeiros passos com Flutter ![image-20210630161405598](C:\Users\Ney Brito\AppData\Roaming\Typora\typora-user-images\image-20210630161405598.png) 
 
 
 
@@ -7,8 +7,6 @@
 - Qual a origem do Flutter?
 
 - Como funciona
-- 
-
 - O que são widgets
 
 - Como instalar o Flutter
