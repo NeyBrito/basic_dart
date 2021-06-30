@@ -1,4 +1,4 @@
-# Primeiros passos com Flutter ![image-20210630161405598](C:\Users\Ney Brito\AppData\Roaming\Typora\typora-user-images\image-20210630161405598.png) 
+# Primeiros passos com Flutter
 
 
 
